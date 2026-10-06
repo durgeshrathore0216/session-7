@@ -80,11 +80,8 @@ Open the `CW` or `HW` folder to access the respective work.
 
 ## 👨‍💻 Author
 
-**Mohit Jangid**
-
-GitHub:  
-https://github.com/mohitjangid187
+**Durgesh Kanwar**
 
 ## 📌 Repository
 
-[SESSION
+[SESSION-07]
