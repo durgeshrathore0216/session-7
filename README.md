@@ -1,87 +1,53 @@
-# 📚 SESSION-07 — AI as a Hint, Not a Solution
+# 🐍 Session 7 — Python Programming
 
-This repository contains the coursework and homework completed as part of **Session 07**.
+Welcome to **Session 7** of my Python programming journey.
 
-The main purpose of this session is to practice problem-solving independently while using **AI as a learning aid and hint**, rather than relying on AI to generate complete solutions.
+This repository contains the programs, exercises, and practical work completed during this session. The focus is on strengthening Python fundamentals through hands-on coding and problem solving.
 
-## 📂 Repository Structure
+---
+
+## 📌 About This Session
+
+Session 7 is another step in my journey of learning programming.
+
+Rather than only studying concepts, I am practicing them by writing programs, testing different approaches, finding errors, and improving my solutions.
+
+The aim is to gradually develop both **coding skills and logical thinking**.
+
+---
+
+## 📚 Topics & Practice
+
+The repository contains Python-based practice covering fundamental programming concepts such as:
+
+* 🐍 Python fundamentals
+* 📦 Variables and data types
+* ⌨️ Input and output
+* 🔢 Operators and expressions
+* 🔀 Conditional statements
+* 🔁 Loops and iteration
+* 🧩 Functions
+* 📋 Data structures
+* 🧠 Logical problem solving
+* 📝 Practice exercises
+
+---
+
+## 🧠 Problem-Solving Approach
+
+For every problem, I try to follow a simple process:
 
 ```text
-SESSION-07/
-│
-├── CW/
-│   └── Classwork
-│
-├── HW/
-│   └── Homework
-│
-└── README.md
+Understand the Problem
+        ↓
+Identify the Logic
+        ↓
+Break It Into Steps
+        ↓
+Write the Python Program
+        ↓
+Run & Test
+        ↓
+Deb
 ```
 
-## 🎯 Learning Objective
-
-The objective of this session is to:
-
-- Improve independent problem-solving skills
-- Understand the logic behind programming solutions
-- Use AI for hints, explanations, and debugging
-- Avoid directly copying complete AI-generated solutions
-- Practice writing and understanding code independently
-
-## 🤖 AI Usage Philosophy
-
-> **AI should be used as a hint, not as a solution.**
-
-AI can be useful for:
-
-- Understanding concepts
-- Finding logical mistakes
-- Getting hints when stuck
-- Debugging errors
-- Understanding alternative approaches
-
-However, the final solution should be **understood and implemented independently**.
-
-## 📁 Contents
-
-### CW — Classwork
-
-Contains the problems, programs, and activities completed during the classroom session.
-
-### HW — Homework
-
-Contains the homework tasks and their corresponding solutions/submissions.
-
-## 🛠️ Technologies
-
-Depending on the individual task, this repository may contain programming exercises using:
-
-- C++
-- HTML
-- CSS
-- JavaScript
-- Other programming tools covered during the session
-
-## 🚀 How to Use
-
-Clone the repository:
-
-```bash
-git clone https://github.com/mohitjangid187/SESSION-07.git
-```
-
-Navigate to the project:
-
-```bash
-cd SESSION-07
-```
-
-Open the `CW` or `HW` folder to access the respective work.
-
-## 👨‍💻 Author
-
-**Durgesh Kanwar**
-
-## 📌 Repository
-
-[SESSION-07]
